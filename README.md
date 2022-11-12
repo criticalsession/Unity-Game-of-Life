@@ -1,4 +1,4 @@
-# Unity Game of Life
+# ![](/Assets/Art/tile_on.png?raw=true) Unity Game of Life
 Game of Life implementation in Unity.
 
 Download the project and build it, edit it, do what you will. No external packages needed, just TextMeshPro.
