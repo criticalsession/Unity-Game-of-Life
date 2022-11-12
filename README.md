@@ -16,5 +16,5 @@ SPACE: *Enter Edit Mode*
 
 ## Edit Mode Controls
 SPACE: *Exit Edit Mode*  
-C: *Clear board*
+C: *Clear board*  
 Left Mouse Button: *Toggle tile "Alive"*
